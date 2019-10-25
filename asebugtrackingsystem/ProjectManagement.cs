@@ -28,7 +28,7 @@ namespace asebugtrackingsystem
         {
             if (txtdescription.Text == "")
             {
-                MessageBox.Show("Provide Description");
+                MessageBox.Show("Please Provide Description");
             }
             else if (txtprojectname.Text == "")
             {
